@@ -1,5 +1,6 @@
 Mercurius is de dichtst bij de zon staande en tevens kleinste planeet in ons zonnestelsel. De planeet is vernoemd naar de Romeinse god Mercurius vanwege de snelle omloop om de zon. Net als de Aarde is het een terrestrische planeet met een vast oppervlak dat veel overeenkomsten vertoont met dat van de Maan. Opmerkelijk is dat deze kleine planeet een vrij sterk magnetisch veld vertoont. Mercurius heeft geen manen.
 
+<<<<<<< HEAD
 • Open de Git Bash Console. Dit kan via een rechtermuisklik op je desktop of
 eender welke locatie waar je aan de slag wil en vervolgens de keuze Git Bash Here te
 selecteren.
@@ -34,4 +35,6 @@ een zinvolle commit message mee als je de wijzigingen commit.
 
 Alles is gelukt.
 
+=======
+>>>>>>> 4db4cb32d78cb7e4794fec7aa5ee554a51863598
 pulled content from online repo
